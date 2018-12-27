@@ -1,0 +1,139 @@
+body {
+    font-family: Montserrat;
+    font-size: 16px;
+    background-color: #ffffff;
+}
+
+.orange {
+    color: #FFA735;
+}
+
+.orange-bg {
+    background-color: #FFA735;
+    color: #ffffff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.kopers-verkopers {
+    background-color: #ECF2F7;
+    border-radius: 8px;
+    max-width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-text {
+    width: 50%;
+    margin-top: 158px;
+}
+
+h1 {
+    font-size: 2.7rem;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.pw {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.fwtitle {
+    margin-top: 100px;
+}
+
+.voor-verkopers {
+    border-left: 1px solid #b9b9b9;
+}
+
+.grey-bg {
+    background-color: #F3F6F7;
+}
+
+.orange-line {
+    background-color: #FFA735;
+    height: 8px;
+    border-bottom-left-radius: 4px;
+}
+
+.black-line {
+    height: 8px;
+    background-color: #151515;
+    border-bottom-right-radius: 4px;
+}
+
+.overveilingburo {
+    margin-top: 83px;
+    width: 90%;
+    max-width: 920px;
+}
+
+.bekijkfilmbtn {
+    background-color: #FFA735;
+    color: #ffffff;
+}
+
+footer {
+    padding-top: 42px;
+    margin-top: 111px;
+    border-top: 1px solid #d2d2d2;
+}
+
+.copyright {
+    background-color: #F3F6F7;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+a {
+    color: #FFA735;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #151515;
+}
+
+.front-category {
+    height: 390px;
+}
+
+.front-cat-txt {
+    padding: 11px;
+    min-height: 360px;
+}
+
+.category-row {
+    margin-top: 48px;
+}
+
+.cta-orange {
+    height: 390px;
+    padding: 24px;
+    background-color: #FFA735;
+    border-radius: 4px;
+}
+
+.logo {
+    padding-top: 14px;
+}
+
+header {
+    background-image: url('/images/header-bg.png');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 708px;
+}

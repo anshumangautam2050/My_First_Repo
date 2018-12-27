@@ -1,0 +1,48 @@
+<!-- Id Field -->
+<div class="form-group col-sm-6">
+    {!! Form::label('id', 'Id:') !!}
+    <p>{!! $mailingLists->id !!}</p>
+</div>
+
+<!-- Uid Field -->
+<div class="form-group col-sm-6">
+    {!! Form::label('uid', 'Uid:') !!}
+    <p>{!! $mailingLists->uid !!}</p>
+</div>
+
+<!-- Public Field -->
+<div class="form-group col-sm-6">
+    {!! Form::label('public', 'Public:') !!}
+    <p>{!! $mailingLists->public !!}</p>
+</div>
+
+<!-- Name Field -->
+<div class="form-group col-sm-6">
+    {!! Form::label('name', 'Name:') !!}
+    <p>{!! $mailingLists->name !!}</p>
+</div>
+
+<!-- Info Field -->
+<div class="form-group col-sm-6">
+    {!! Form::label('info', 'Info:') !!}
+    <p>{!! $mailingLists->info !!}</p>
+</div>
+
+<!-- Created At Field -->
+<div class="form-group col-sm-6">
+    {!! Form::label('created_at', 'Created At:') !!}
+    <p>{!! $mailingLists->created_at !!}</p>
+</div>
+
+<!-- Updated At Field -->
+<div class="form-group col-sm-6">
+    {!! Form::label('updated_at', 'Updated At:') !!}
+    <p>{!! $mailingLists->updated_at !!}</p>
+</div>
+
+<!-- Deleted At Field -->
+<div class="form-group col-sm-6">
+    {!! Form::label('deleted_at', 'Deleted At:') !!}
+    <p>{!! $mailingLists->deleted_at !!}</p>
+</div>
+
